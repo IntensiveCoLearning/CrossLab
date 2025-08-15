@@ -66,8 +66,9 @@ Telegram：
 <!-- START_COMMIT_TABLE -->
 | Name | 8.12 | 8.13 | 8.14 | 8.15 | 8.16 | 8.17 | 8.18 | 8.19 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/CrossLab/blob/main/SIGNUP_AUTOMATION.md) | ⭕️ | ⭕️ |   | | | | | |
+| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/CrossLab/blob/main/SIGNUP_AUTOMATION.md) | ⭕️ | ⭕️ | ❌ | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
